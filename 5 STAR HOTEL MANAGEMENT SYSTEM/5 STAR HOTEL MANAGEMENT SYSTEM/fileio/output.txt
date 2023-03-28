@@ -1,0 +1,7 @@
+Number of Alphabets  : 9
+Number of Vowels     : 2
+Number of Consonents : 7
+Number of Spaces     : 2
+Number of Sentences  : 0
+Number of Words      : 4
+Number of Lines      : 2
